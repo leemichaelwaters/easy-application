@@ -158,7 +158,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Gree](http://product.gree.net/us/en/careers/) | San Francisco, CA |
 | [Greenhouse](http://www.greenhouse.io/careers) | New York, NY |
 | [Groupon](https://jobs.groupon.com/#/categories/engineering) | Chicago, IL|
-| [GrubHub](https://www.grubhub.com/about/careers) | New York, NY |
 | [Guidewire](https://careers.guidewire.com/jobs/) | Foster City, CA |
 | [GumGum](http://www.gumgum.com/careers) | Santa Monica, CA |
 | [Gusto](https://gusto.com/about/careers) | San Francisco, CA |
