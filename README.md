@@ -169,7 +169,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Helix](https://www.helix.com/careers) | San Carlos, CA; San Diego, CA |
 | [Helpling](https://www.helpling.de/careers) | Berlin, Germany |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
-| [HomeAway](https://www.homeaway.com/careers/openings/) | Austin, TX; Chicago, IL; Denver, CO; Seattle, WA |
 | [HubSpot](https://www.hubspot.com/jobs) | Cambridge, MA |
 | [Hulu](http://www.hulu.com/jobs) | Santa Monica, CA |
 | [iCIMS](https://careers.icims.com) | Matawan, NJ |
